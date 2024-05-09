@@ -4,3 +4,6 @@
 ```js
 let a = "Hello"
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my profile
